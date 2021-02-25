@@ -46,11 +46,11 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  // &:hover {
-  //   color: #151412;
-  //   background: #dbd4c1;
-  //   cursor: pointer;
-  // }
+  &:hover {
+    color: #151412;
+    background: #dbd4c1;
+    cursor: pointer;
+  }
 }
 
 .active {
